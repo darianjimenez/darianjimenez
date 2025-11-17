@@ -1,4 +1,4 @@
-# Hi 👋, I'm Darian Jimenez
+# Hi, I'm Darian Jimenez 👋
 
 ### Junior @ Olin College of Engineering
 
