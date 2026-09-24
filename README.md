@@ -2,7 +2,7 @@
 
 ### Junior @ Olin College of Engineering
 
-- 🌱 I'm currently learning **React Native**
+- 🌱 I'm currently learning ✱*Robotics**
 - 👯 I'm looking to collaborate on **Neurotech Projects**
 - 💬 Ask me about **Assistive Technology, Machine Learning, and Embedded Systems**
 - 📫 Reach me at **djimenez@olin.edu**
@@ -41,6 +41,5 @@
   <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40" height="40"/></a>
   <a><img src="https://skillicons.dev/icons?i=scikitlearn" width="40" height="40"/></a>
   <a><img src="https://skillicons.dev/icons?i=opencv" width="40" height="40"/></a>
-  <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="40" height="40"/></a>
 </p>
  
