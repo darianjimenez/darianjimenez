@@ -2,7 +2,7 @@
 
 ### Junior @ Olin College of Engineering
 
-- 🌱 I'm currently learning ✱*Robotics**
+- 🌱 I'm currently learning **Robotics**
 - 👯 I'm looking to collaborate on **Neurotech Projects**
 - 💬 Ask me about **Assistive Technology, Machine Learning, and Embedded Systems**
 - 📫 Reach me at **djimenez@olin.edu**
