@@ -1,6 +1,6 @@
 # Hi, I'm Darian Jimenez 👋
 
-### Junior @ Olin College of Engineering
+### Electrical and Computer Engineering Senior @ Olin College of Engineering
 
 - 🌱 I'm currently learning **Robotics**
 - 👯 I'm looking to collaborate on **Neurotech Projects**
